@@ -1,0 +1,74 @@
+.interesting{
+
+  font-style: italic;
+
+}
+
+
+.list{
+
+  list-style: none;
+}
+
+.bold{
+
+  font-weight: bold;
+
+}
+
+.font{
+ font-family: Helvetica, Arial;
+
+}
+
+.image{
+  width:300px;
+  height:200px;
+  padding-bottom: 10px;
+}
+body{
+border: 1px solid;
+border-color: rgb(197, 203, 214);
+box-shadow: 10px 10px 2px -2px rgba(0,0,0,0.13);
+padding-top:10px;
+padding-left: 12px;
+padding-right: 12px;
+padding-bottom: 20px;
+
+
+}
+
+.size{
+  width:300px;
+
+}
+ul{
+
+  text-align: left;
+  padding-left: 0px;
+}
+
+li{
+
+  text-align: left;
+  padding-left: 0px;
+}
+
+.text-border2{
+border: 1px solid;
+border-color: rgb(197, 203, 214);
+padding-left: 15px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+
+.padding1{
+
+  padding-bottom: 15px;
+}
+.font{
+
+  font-size:15px;
+}
